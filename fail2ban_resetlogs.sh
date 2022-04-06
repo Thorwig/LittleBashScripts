@@ -3,7 +3,7 @@
 #************************************************************
 # Sript qui permet de reset les logs et la base de donnée
 # de fail2ban
-# Script réalisé pour Charlie Solutions
+# Script réalisé par Thorwig pour Charlie Solutions
 #************************************************************
 
 Database ="/var/lib/fail2ban/fail2ban.sqlite3"
